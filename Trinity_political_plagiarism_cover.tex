@@ -2,8 +2,8 @@
 
 % import packages
 \usepackage{graphicx} % insert picture
-\usepackage{array}
-\usepackage{setspace}
+\usepackage{array} % change the table's space
+\usepackage{setspace} % set space between line
 
 \doublespacing
 
@@ -28,19 +28,19 @@
 	\begin{center}
 		\begin{tabular}{|>{\arraybackslash}p{5cm}|>{\arraybackslash}p{8cm}|}
 			\hline
-			\textbf{Student Name: }& Regulus\\
+			\textbf{Student Name: }& Regulus\\ % please replace name
 			\hline
-			\textbf{Student ID Number:} & 23330530 \\
+			\textbf{Student ID Number:} & 23330530 \\ % please replace number
 			\hline
-			\textbf{Programme Title:} & Hogwarts Research Project \\
+			\textbf{Programme Title:} & Hogwarts Research Project \\ % please replace subject
 			\hline
-			\textbf{Module Title: }& Muggle Studies\\
+			\textbf{Module Title: }& Muggle Studies\\ % please replace module
 			\hline
-			\textbf{Assessment Title:} & Thops's Barrier\\
+			\textbf{Assessment Title:} & Thops's Barrier\\ % please replace assessment title
 			\hline
-			\textbf{Lecture(s): }& Astarion \\
+			\textbf{Lecture(s): }& Astarion \\ % please replace lectures' name
 			\hline
-			\textbf{Date Submitted:} & 31 February 2024 \\
+			\textbf{Date Submitted:} & \today \\ % please notice the date
 			\hline
 		\end{tabular}
 	\end{center}
@@ -55,14 +55,15 @@
 	
 	
 	\begin{flushleft}
+		% please adjust the parameters when you import yourself's signature picture
 		\begin{minipage}{0.5\linewidth}
 			\textbf{Signature:}
-			\raisebox{-0.3\height}{\includegraphics[width=0.5\linewidth]{regulus*_signature.png}}
+			\raisebox{-0.3\height}{\includegraphics[width=0.5\linewidth]{your_signature.png}}
 		\end{minipage}
 	\end{flushleft}
 	
 	\vspace{.3cm}
 	
-	\noindent \textbf{Date: } 31 February 2024
+	\noindent \textbf{Date: } \today 4 % please notice the date
 	
 \end{document}
