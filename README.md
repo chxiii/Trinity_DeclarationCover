@@ -16,3 +16,5 @@ Please note these default settings, which you can change to suit your needs.
 ## Notice
 + Signature size: 1551 x 628
 + Signature form: PNG
+
+Please read the LaTeX comment and adjust the code to fit your demands. 
