@@ -12,3 +12,7 @@ Please note these default settings, which you can change to suit your needs.
 + Line space: Double
 + Paper size: A4 paper
 + Margin: 2.5 cm
+
+## Notice
++ Signature size: 1551 x 628
++ Signature form: PNG
