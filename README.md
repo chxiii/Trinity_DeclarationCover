@@ -1,4 +1,4 @@
-# Trinity_Plagiaris_Statement_Cover
+# Trinity_DeclarationCover
 Trinity Plagiarism Cover in Tex file
 
 ## Introduction
